@@ -1,8 +1,10 @@
 {
-  "name": "fire",
-  "version": "0.0.1",
+  "name": "@fo-angular/fire",
+  "version": "0.0.21",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
-    "@angular/core": "^8.2.14"
+    "@angular/core": "^8.2.14",
+    "@angular/fire": "^6.0.3",
+    "firebase": "^7.24.0"
   }
 }
